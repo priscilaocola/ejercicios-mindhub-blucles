@@ -167,15 +167,12 @@
 
 // // ejercicios 11
 
-// // v.1 Estuve investigando el ... y se puede así junto con Math.max, 
-// //pero como es con bucles lo hice de nuevo abajo en v.2
-
-// let listaMayor = [18, 31, 64, 5, 8 ,12 ,77 ,54, 125, 32];
+// let listaMayor = [23, 33, 64, 6, 8 ,15 ,52 ,28, 4, 44];
 // let mayorNumber = Math.max(...listaMayor);
 // console.log(mayorNumber)
 
 // // v.2
-// let listaMayor = [18, 31, 64, 5, 812 ,12 ,77 ,543, 125, 32];
+// let listaMayor = [45, 38, 58 , 4, 552 ,10 ,25 ,483, 158, 30];
 // let resultadoMayor = 0
 // for (let i = 0; i < listaMayor.length; i++){
 //     if (resultadoMayor < listaMayor[i]){
@@ -186,7 +183,7 @@
 
 // // ejercicio 12
 
-// let listaMayor = [18, 31, 64, 5, 8 ,12 ,77 ,54, 125, 32];
+// let listaMayor = [23, 33, 64, 6, 8 ,15 ,52 ,28, 4, 44];
 // let mayorNumber = Math.min(...listaMayor);
 // console.log(mayorNumber)
 
