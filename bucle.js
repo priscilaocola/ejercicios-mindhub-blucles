@@ -225,7 +225,7 @@
 
 // // ejercicios 14
 
-// function pyramid1(numPisos) {
+// function triangulo1(numPisos) {
 //     for (let i = 0; i < numPisos; i++) {
 //         let piso = '';
 //         // console.log(`vuelta n ${i}`)
@@ -237,11 +237,11 @@
 //     }
 // }
 
-// pyramid1(5);
+// triangulo1(5);
 
 // // ejercicio 15
 
-// function pyramid2(numPisos2) {
+// function triangulo2(numPisos2) {
 //     for (let i = 0; i < numPisos2; i++) {
 //         let linea = '';
 //         for (let j = 1; j < numPisos2 - i; j++) {
@@ -253,7 +253,7 @@
 //         console.log(linea);
 //     }
 // }
-// pyramid2(5);
+// triangulo2(5);
 
 // ejercicio 16
 
